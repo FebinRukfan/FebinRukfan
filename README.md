@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Febin Rukfan S S</h1>
 <h3 align="center">Native Android Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javaman97&label=Profile%20views&color=0e75b6&style=flat" alt="javaman97" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FebinRukfan&label=Profile%20views&color=0e75b6&style=flat" alt="FebinRukan" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/FebinRukfan](https://github.com/FebinRukfan)
 
