@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQHPAqcIlqyaaw/profile-displaybackgroundimage-shrink_350_1400/0/1666402837651?e=1692230400&v=beta&t=svxKY5HDI7DJkSb-tKCPuSofmav7sd5CCzs-TH1cKtc)
 <h1 align="center">Hi 👋, I'm Febin Rukfan S S</h1>
 <h3 align="center">Native Android Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://dezinebrainz.com/images/android-app.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FebinRukfan&label=Profile%20views&color=0e75b6&style=flat" alt="FebinRukan" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/FebinRukfan](https://github.com/FebinRukfan)
